@@ -6,6 +6,7 @@ nice littler pplang interpreter for GNU/LOO*nix
 
 instructions::::
 
+filename.pplang
 
 valid characters:
 
