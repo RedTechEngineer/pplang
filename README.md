@@ -8,11 +8,19 @@ instructions::::
 
 
 valid characters:
+
 			p
+			
 			q
+			
 			r
+			
 
 p - prints pp
+
+
 q - put this after the p or the r command ^-^
+
+
 r - prints PP
 			
